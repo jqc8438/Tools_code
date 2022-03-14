@@ -10,8 +10,7 @@ Mostly used in medical image segmentation, when the foreground target is small a
 
 **2. Focal Loss**
 
-![1](http://latex.codecogs.com/svg.latex?\mathrm{FL}\left(p_{\mathrm{t}}\right)=-\alpha_{\mathrm{t}}\left(1-p_{\mathrm{t}}\right)^{\gamma} \log \left(p_{\mathrm{t}}\right)
-)
+![](http://latex.codecogs.com/svg.latex?\mathrm{FL}\left(p_{\mathrm{t}}\right)=-\alpha_{\mathrm{t}}\left(1-p_{\mathrm{t}}\right)^{\gamma} \log \left(p_{\mathrm{t}}\right))
 
 first used in RetinaNet (https://arxiv.org/abs/1708.02002)
 
